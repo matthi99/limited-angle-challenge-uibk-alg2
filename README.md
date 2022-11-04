@@ -22,14 +22,21 @@ To run the code call the main.py function with from the command line: python3 ma
 ## Examples
 
 
-<img src="https://github.com/sgoep/limited-angle-challenge/blob/main/rec_examples/rec_iter_190.png" alt="" title="">
+### Difficulty 1
 
-<p align="center">
-  <img src="https://github.com/sgoep/limited-angle-challenge/blob/main/rec_examples/rec_iter_190.png" width="350" title="Sinogramm">
-  <img src="https://github.com/sgoep/limited-angle-challenge/blob/main/rec_examples/rec_iter_190.png" width="350" title="Total Variation Reconstruction">
-  <img src="https://github.com/sgoep/limited-angle-challenge/blob/main/rec_examples/rec_iter_190.png" width="350" title = "Networks Prediciton">
-  <img src="https://github.com/sgoep/limited-angle-challenge/blob/main/rec_examples/rec_iter_190.png" width="350" title="Groundtruth">
-</p>
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_1_example_3.png" alt="" title="">
+
+### Difficulty 3
+
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_3_example_2.png" alt="" title="">
+
+### Difficulty 5
+
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_5_example_3.png" alt="" title="">
+
+### Difficulty 7
+
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_7_example_2.png" alt="" title="">
 
 ## Authors of Limited-Angle-Challenge
 
