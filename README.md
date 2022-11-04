@@ -17,10 +17,17 @@ In the repository we provide an environment.yml file as well as a requirements.t
 
 ## Usage instructions
 
-To run the code call the main.py function with from the command line: python3 main.py path/to/input/files path/to/output/files difficulty
+To run the code, first install all necessary packages via
+```
+conda env create --file=env_lac.yaml
+```
+
+Then call the main.py function from the terminal with
+```
+python3 main.py path/to/input/files path/to/output/files difficulty
+```
 
 ## Examples
-
 
 ### Difficulty 1
 
