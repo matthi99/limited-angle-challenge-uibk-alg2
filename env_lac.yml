@@ -1,0 +1,26 @@
+name: env_lac
+channels:
+  - pytorch
+  - defaults
+  - astra-toolbox
+dependencies:
+  - python=3.9
+  - conda=4.12.0
+  - h5py=3.6.0
+  - matplotlib=3.5.1
+  - natsort=7.1.1
+  - numpy=1.20.3
+  - pandas=1.3.5
+  - pip=21.2.4
+  - scipy=1.7.3
+  - seaborn=0.11.2
+  - pytorch=1.10.1
+  - torchaudio=0.10.1
+  - torchvision=0.11.2
+  - tqdm=4.62.3
+  - astra-toolbox==2.1.0
+  - pip:
+    - torchinfo==1.6.3
+    - tensorboard==2.8.0
+    - torch-summary==1.4.5
+    - plotly==5.5.0
