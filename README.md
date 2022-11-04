@@ -22,7 +22,7 @@ conda env create --file=env_lac.yaml
 
 Then call the main.py function from the terminal with
 ```
-python3 main1.py path/to/input/files path/to/output/files difficulty
+python3 main.py path/to/input/files path/to/output/files difficulty
 ```
 
 ## Examples
