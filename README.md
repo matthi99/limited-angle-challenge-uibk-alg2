@@ -24,19 +24,19 @@ To run the code call the main.py function with from the command line: python3 ma
 
 ### Difficulty 1
 
-<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_1_example_3.png" alt="" title="">
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk1/blob/main/results/Difficulty_1_example_3.png" alt="" title="">
 
 ### Difficulty 3
 
-<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_3_example_2.png" alt="" title="">
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk1/blob/main/results/Difficulty_3_example_2.png" alt="" title="">
 
 ### Difficulty 5
 
-<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_5_example_3.png" alt="" title="">
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk1/blob/main/results/Difficulty_5_example_3.png" alt="" title="">
 
 ### Difficulty 7
 
-<img src="https://github.com/matthi99/limited-angle-challenge-uibk/blob/main/results/Difficulty_7_example_2.png" alt="" title="">
+<img src="https://github.com/matthi99/limited-angle-challenge-uibk1/blob/main/results/Difficulty_7_example_2.png" alt="" title="">
 
 ## Authors of Limited-Angle-Challenge
 
