@@ -6,8 +6,8 @@ which allows to test reconstruction algorithms on real-world data.
 
 ## Algorithm description
 
-In our presented approach we combined a well studied reconstruction technique with novel deep learning approaches. Judying from the given exemplary data and respective phantoms, it is safe to assume that the sought reconstruction can be interpreted as a piecewise constant function. We exploit this a-priori information and apply total variation regularization to obtain an inital estimate of the scanned object. This reconstruction is then processed by a neural network using an U-net backbone architecture to return a binary segmentation mask. To train the neural network, we generated 2.500 masks with similar shapes as the data provided by the HTC2022 challenge. Using the Python module *ASTRA-Toolbox*, we then simulated the projection 
-to calculate the sinograms of the synthetic data set.
+In our presented approach we combined a well studied reconstruction technique with novel deep learning approaches. Judying from the given exemplary data and respective phantoms, it is safe to assume that the sought reconstruction can be interpreted as a piecewise constant function. We exploit this a-priori information and apply total variation regularization to obtain an inital estimate of the scanned object. This reconstruction is then processed by a neural network using an U-net backbone architecture to return a binary segmentation mask. To get a final reconstruction, which is also explaining the original data we apply the forward operator to the segmentation mask returned by the network and replace the respective regions in the sinogram with the measurement data. After again applying total variation reconstruction and thresholding we obtain the final reconstruction.
+To train the neural network, we generated 2.500 masks with similar shapes as the data provided by the HTC2022 challenge. Using the Python module *ASTRA-Toolbox*, we then simulated the projection to calculate the sinograms of the synthetic data set.
 
 ## Requirements
 
